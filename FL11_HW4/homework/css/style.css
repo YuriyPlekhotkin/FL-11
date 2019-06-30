@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    border: 0;
 }
 
 body {
@@ -187,4 +186,8 @@ body {
 
 .double>div {
     width: 400px;
+}
+
+.navbar {
+    \
 }
