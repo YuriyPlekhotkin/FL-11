@@ -6,6 +6,7 @@
 body {
     width: 960px;
     margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .flexcontainer {
@@ -35,6 +36,7 @@ body {
     padding-left: 40px;
     cursor: pointer;
     text-decoration: none;
+    border: none;
 }
 
 .logo {
