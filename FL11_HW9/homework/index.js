@@ -15,7 +15,7 @@ let getNumbers = function(x) {
 getNumbers('n1um3ber95');
 
 /*
-alternative code
+alternative task 0
 let getNumbers = function(x) {
     let i, y, z, arrayLength;
     y = [];
@@ -33,9 +33,9 @@ let getNumbers = function(x) {
 }
 getNumbers('n1um3ber95'); */
 
-//task2
 
 
+//task 1
 
 let finalList;
 let a, b, c, d, e, f, g;
@@ -71,3 +71,5 @@ let findTypes = function(...types) {
 }
 let five = 5;
 findTypes(null, five, 'hello');
+
+//task 2
